@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Mother Jane",
+  "base_artist": "RYKEYDADDYDIRTY",
+  "createdAt": "2025-12-04T14:20:10.822453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mother Jane (feat. SHUTO)",
+      "artist": "RYKEYDADDYDIRTY",
+      "has_synced": false,
+      "path": "select/01_Mother_Jane_(feat._SHUTO)_RYKEYDADDYDIRTY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mother Jane (feat. 柊人)",
+      "artist": "RYKEYDADDYDIRTY",
+      "has_synced": false,
+      "path": "select/pl_01_Mother_Jane_(feat._柊人)_RYKEYDADDYDIRTY.txt"
+    }
+  ]
+}
